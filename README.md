@@ -10,7 +10,7 @@ E: DUO fitting output to MARVEL and Jarvis 1999 data <br>
 F 1-5: DUO .en, .pot, .trans, .states, and output files for fit and dipole calculated intensities <br>
 <br>
 Note that all DUO outputs contain the related input in the first section. 
-<br>
+<br>  <br>
 All Exocross inputs and outputs are typical as explained in ExoCross documentation for both stick and lorentzian calculations.  <br>
 For more information see: https://exocross.readthedocs.io/en/latest/ 
 
