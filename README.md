@@ -1,5 +1,6 @@
 # Appendices_NO 
-## Appendices for my master's dissertation on the NO+ ion ground electronic state
+## Appendices for Emery Grahill-Bland's 2024 master's dissertation on the NO+ ion ground electronic state
+### "The Generation of a High-Temperature Line List of the NO+ X1Σ+ Ion " 
 
 **This file contains appendices A-F:** <br>
 A: MARVEL input CSV file of transitions from literature <br>
